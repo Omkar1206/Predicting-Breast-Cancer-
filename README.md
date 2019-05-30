@@ -72,6 +72,6 @@ Currently, there are more than 3 million women who have been diagnosed with brea
 </table>
 
 
-
+<h4>It is necessary that this cancer is detected at the earliest stage.</h4>
 <h4>After a lot of feature engineering and analysis I have a test accuracy of 97% and training accuracy of 95%</h4>
-<h4>Please suggest me your insights or the things you think I can improve</h4>
+<h4>Please suggest me your insights or the things you think I can improve.</h4>
