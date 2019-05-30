@@ -9,7 +9,7 @@ Currently, there are more than 3 million women who have been diagnosed with brea
 
 
 
-
+<h2>Breast Cancer Rates</h2>
 <table border="0" cellpadding="0" cellspacing="1" class="tablelist" width="100%">
 <thead>
 <tr>
@@ -73,4 +73,5 @@ Currently, there are more than 3 million women who have been diagnosed with brea
 
 
 
-After a lot of feature engineering and analysis I have a test accuracy of 97% and training accuracy of 95%
+<h4>After a lot of feature engineering and analysis I have a test accuracy of 97% and training accuracy of 95%</h4>
+<h4>Please suggest me your insights or the things you think I can improve</h4>
